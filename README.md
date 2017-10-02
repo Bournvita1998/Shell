@@ -5,7 +5,7 @@
 
 ## Building and Implementation:
 	First run the command *make* in the project directory.
-	The run *./run* to run the shell and start interacting with it.
+	The run *./run* to run the shell.
 
 ## Features:
 - All the basic tasks given have been implemented.
