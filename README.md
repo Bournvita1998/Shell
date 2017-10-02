@@ -1,8 +1,6 @@
 # Basic Shell Impementation Using C
 
 ## Authors:
-
-	Mudit surana (20161100)
 	Mohit kuri (20161141)
 
 ## Building and Implementation:
