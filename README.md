@@ -11,7 +11,7 @@
 - All the basic tasks given have been implemented.
 - SemiColon separated commands accepted, but while using this, you have to give spaces between commands and semi-colons.
 - Piping and redirections have been implemented.
-- Modularity: All the different commands' functions have been defined in different files.
+- Modularity : All the different commands' functions have been defined in different files.
 - One single header file **run.h** containing all the global variables.
 - We have defined a **Makefile** that has all the operations of compiling all the files.
 - Ctrl-C cannot exit the shell.
