@@ -1,11 +1,11 @@
 # Basic Shell Impementation Using C
 
 ## Authors:
-	Mohit kuri (20161141)
+	-Mohit kuri (20161141)
 
 ## Building and Implementation:
-	First run the command *make* in the project directory.
-	The run *./run* to run the shell and start interacting with it.
+	-First run the command *make* in the project directory.
+	-The run *./run* to run the shell and start interacting with it.
 
 ## Features:
 - All the basic tasks given have been implemented.
